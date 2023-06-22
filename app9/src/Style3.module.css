@@ -1,0 +1,13 @@
+.header{
+    text-align: center;
+    padding: 20px;
+    background-color: purple;
+    color: white;
+    border: 1px solid black;
+}
+
+.text{
+    color: white;
+    background-color: purple;
+    padding: 20px;
+}

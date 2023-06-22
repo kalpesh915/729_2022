@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+    color: white;
+    border: 1px solid black;
+}
+
+p{
+    color: beige;
+    background-color: orangered;
+    padding: 20px;
+}
