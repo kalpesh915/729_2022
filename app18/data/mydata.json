@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "fname": "krushil",
+      "lname": "dangar",
+      "email": "krushil@gmail.com",
+      "phone": "9898107057",
+      "city": "Rajkot",
+      "id": 1
+    },
+    {
+      "fname": "JIGAR",
+      "lname": "tikharji",
+      "email": "jigar@gmail.com",
+      "phone": "9988776655",
+      "city": "Rajkot",
+      "id": 2
+    },
+    {
+      "fname": "Faizan",
+      "lname": "Aakhunji",
+      "email": "faizan@gmail.com",
+      "phone": "9999999999",
+      "city": "Rajkot",
+      "id": 9
+    },
+    {
+      "fname": "ronak",
+      "lname": "gokani",
+      "email": "Ronak@gmail.com",
+      "phone": "9898107057",
+      "city": "Rajkot",
+      "id": 10
+    },
+    {
+      "fname": "Ronak",
+      "lname": "Gokani",
+      "email": "Ronak@gmail.com",
+      "phone": "9898107057",
+      "city": "Rajkot",
+      "id": 12
+    },
+    {
+      "fname": "Shaily",
+      "lname": "Zinzuvadiya",
+      "email": "shaily@gmail.com",
+      "phone": "42349823797",
+      "city": "baroda",
+      "id": 13
+    }
+  ]
+}

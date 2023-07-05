@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "fname": "ronak",
+      "lname": "gokani",
+      "city": "ahamdabad",
+      "id": 2
+    },
+    {
+      "fname": "jigar",
+      "lname": "tikharji",
+      "city": "surat",
+      "id": 3
+    },
+    {
+      "fname": "faizan",
+      "lname": "aakhunji",
+      "city": "baroda",
+      "id": 4
+    },
+    {
+      "fname": "pate;",
+      "lname": "gayatri",
+      "city": "rajkot",
+      "id": 8
+    }
+  ]
+}
